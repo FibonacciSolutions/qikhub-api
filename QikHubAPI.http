@@ -1,0 +1,6 @@
+@QikHubAPI_HostAddress = http://localhost:5022
+
+GET {{QikHubAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
