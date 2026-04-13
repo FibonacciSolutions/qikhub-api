@@ -39,10 +39,10 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
-// CORS - Allow everything for development
+// CORS - Allow React frontend
 builder.Services.AddCors(options =>
 {
-    options.AddDefaultPolicy(policy =>
+    options.AddPolicy("AllowReactApp", policy =>
     {
         policy.AllowAnyOrigin()
               .AllowAnyMethod()
@@ -58,12 +58,30 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+else
+{
+    // In production, don't expose Swagger publicly
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
 app.UseHttpsRedirection();
-app.UseCors();
+app.UseCors("AllowReactApp");
 app.UseAuthentication();
 app.UseAuthorization();
+
+// Serve static files (React build)
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
+// Map API controllers
 app.MapControllers();
+
+// Fallback to index.html for React routing (SPA support)
+app.MapFallbackToFile("index.html");
+
+// Remove manual URL binding - let IIS handle the port
+// app.Urls.Add("http://*:80"); // REMOVE THIS - IIS handles it
 
 // Create database on startup
 using (var scope = app.Services.CreateScope())
@@ -73,4 +91,3 @@ using (var scope = app.Services.CreateScope())
 }
 
 app.Run();
-app.Urls.Add("http://*:80");

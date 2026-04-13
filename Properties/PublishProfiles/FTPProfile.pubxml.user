@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATU4HQpR5n0iNTSZHMA+DsAAAAAACAAAAAAAQZgAAAAEAACAAAAAKvukk7iriHIzYiIaop7iEbfd5CiXqIdRZGcB14pXEXwAAAAAOgAAAAAIAACAAAABm0gjBslGJAr99dRM031CH4AYu5l6prv1B7bb1RfnsAyAAAACtbC5mbXxNPqyayyCC/m5LxLE2KIFyzF5CcmXY5FI9o0AAAABJFZWNjxEYzk6IGKnjKTLh5Hbflm2sJtLZORkhk1etk/ojiPYnesOuC5iK8ZqRgFoHyHDui2/ZqG+tOYXlv3fe</EncryptedPassword>
+    <_PublishTargetUrl>ftp://win8152.site4now.net/</_PublishTargetUrl>
+    <History>False|2026-04-10T09:45:33.0692898Z||;True|2026-04-10T15:12:33.7884138+05:45||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/04/2026 14:23:23</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/10/2026 14:50:15</publishTime>
+    </File>
+    <File Include="Azure.Core.dll">
+      <publishTime>07/15/2025 22:09:30</publishTime>
+    </File>
+    <File Include="Azure.Identity.dll">
+      <publishTime>07/11/2025 06:02:46</publishTime>
+    </File>
+    <File Include="BCrypt.Net-Next.dll">
+      <publishTime>03/03/2022 21:55:20</publishTime>
+    </File>
+    <File Include="BuildHost-net472/cs/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:00</publishTime>
+    </File>
+    <File Include="BuildHost-net472/de/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:02</publishTime>
+    </File>
+    <File Include="BuildHost-net472/es/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:04</publishTime>
+    </File>
+    <File Include="BuildHost-net472/fr/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:06</publishTime>
+    </File>
+    <File Include="BuildHost-net472/it/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:08</publishTime>
+    </File>
+    <File Include="BuildHost-net472/ja/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:10</publishTime>
+    </File>
+    <File Include="BuildHost-net472/ko/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:10</publishTime>
+    </File>
+    <File Include="BuildHost-net472/Microsoft.Build.Locator.dll">
+      <publishTime>09/20/2023 14:23:38</publishTime>
+    </File>
+    <File Include="BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe">
+      <publishTime>05/13/2025 11:09:14</publishTime>
+    </File>
+    <File Include="BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config">
+      <publishTime>05/13/2025 11:09:10</publishTime>
+    </File>
+    <File Include="BuildHost-net472/Microsoft.IO.Redist.dll">
+      <publishTime>06/14/2024 23:47:12</publishTime>
+    </File>
+    <File Include="BuildHost-net472/Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 12:54:56</publishTime>
+    </File>
+    <File Include="BuildHost-net472/pl/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:12</publishTime>
+    </File>
+    <File Include="BuildHost-net472/pt-BR/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:14</publishTime>
+    </File>
+    <File Include="BuildHost-net472/ru/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:16</publishTime>
+    </File>
+    <File Include="BuildHost-net472/System.Buffers.dll">
+      <publishTime>02/19/2020 15:50:18</publishTime>
+    </File>
+    <File Include="BuildHost-net472/System.Collections.Immutable.dll">
+      <publishTime>10/29/2024 08:28:12</publishTime>
+    </File>
+    <File Include="BuildHost-net472/System.CommandLine.dll">
+      <publishTime>10/28/2024 19:32:44</publishTime>
+    </File>
+    <File Include="BuildHost-net472/System.Memory.dll">
+      <publishTime>05/08/2022 09:16:02</publishTime>
+    </File>
+    <File Include="BuildHost-net472/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 19:14:44</publishTime>
+    </File>
+    <File Include="BuildHost-net472/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/23/2021 05:25:18</publishTime>
+    </File>
+    <File Include="BuildHost-net472/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 15:50:18</publishTime>
+    </File>
+    <File Include="BuildHost-net472/tr/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:18</publishTime>
+    </File>
+    <File Include="BuildHost-net472/zh-Hans/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:18</publishTime>
+    </File>
+    <File Include="BuildHost-net472/zh-Hant/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:20</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/cs/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:00</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/de/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:02</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/es/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:04</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/fr/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:06</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/it/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:08</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/ja/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:10</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/ko/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:10</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/Microsoft.Build.Locator.dll">
+      <publishTime>09/20/2023 14:23:38</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json">
+      <publishTime>05/13/2025 11:09:14</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll">
+      <publishTime>05/13/2025 11:09:14</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config">
+      <publishTime>05/13/2025 11:09:10</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json">
+      <publishTime>05/13/2025 11:09:14</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 12:54:54</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/pl/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:12</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/pt-BR/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:14</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/ru/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:16</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/System.Collections.Immutable.dll">
+      <publishTime>10/29/2024 08:28:18</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/System.CommandLine.dll">
+      <publishTime>10/28/2024 19:32:44</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/tr/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:18</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/zh-Hans/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:18</publishTime>
+    </File>
+    <File Include="BuildHost-netcore/zh-Hant/System.CommandLine.resources.dll">
+      <publishTime>10/28/2024 19:33:20</publishTime>
+    </File>
+    <File Include="cs/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:12:54</publishTime>
+    </File>
+    <File Include="de/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:13:10</publishTime>
+    </File>
+    <File Include="es/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:12:34</publishTime>
+    </File>
+    <File Include="fr/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:13:22</publishTime>
+    </File>
+    <File Include="it/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:12:34</publishTime>
+    </File>
+    <File Include="ja/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:12:54</publishTime>
+    </File>
+    <File Include="ko/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:15:58</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>10/24/2025 06:54:40</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.OpenApi.dll">
+      <publishTime>10/24/2025 06:55:18</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/31/2023 20:43:50</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.Cryptography.dll">
+      <publishTime>03/14/2025 03:50:52</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>08/15/2025 03:13:10</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>10/24/2025 06:36:02</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>10/24/2025 06:36:30</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>10/24/2025 06:36:50</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>10/24/2025 06:37:04</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>06/26/2025 00:13:32</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.Extensions.Msal.dll">
+      <publishTime>06/26/2025 00:16:56</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>07/23/2024 05:23:36</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>07/23/2024 05:24:16</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>07/23/2024 05:23:56</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>07/23/2024 05:23:56</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>07/23/2024 05:23:56</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>07/23/2024 05:23:36</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>12/18/2025 17:30:40</publishTime>
+    </File>
+    <File Include="Microsoft.SqlServer.Server.dll">
+      <publishTime>01/27/2022 23:04:08</publishTime>
+    </File>
+    <File Include="pl/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:13:10</publishTime>
+    </File>
+    <File Include="pt-BR/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:12:34</publishTime>
+    </File>
+    <File Include="QikHubAPI.deps.json">
+      <publishTime>04/10/2026 15:00:51</publishTime>
+    </File>
+    <File Include="QikHubAPI.dll">
+      <publishTime>04/10/2026 15:00:42</publishTime>
+    </File>
+    <File Include="QikHubAPI.exe">
+      <publishTime>04/10/2026 15:00:42</publishTime>
+    </File>
+    <File Include="QikHubAPI.pdb">
+      <publishTime>04/10/2026 15:00:42</publishTime>
+    </File>
+    <File Include="QikHubAPI.runtimeconfig.json">
+      <publishTime>04/10/2026 15:00:43</publishTime>
+    </File>
+    <File Include="QikHubAPI.staticwebassets.endpoints.json">
+      <publishTime>04/10/2026 15:00:51</publishTime>
+    </File>
+    <File Include="ru/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:12:34</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/net9.0/Microsoft.Data.SqlClient.dll">
+      <publishTime>08/15/2025 03:13:10</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/16/2025 06:08:14</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/16/2025 06:08:36</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/16/2025 06:08:04</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net9.0/Microsoft.Data.SqlClient.dll">
+      <publishTime>08/15/2025 03:13:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>03/26/2026 03:34:24</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>03/26/2026 03:34:32</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>03/26/2026 03:34:38</publishTime>
+    </File>
+    <File Include="System.ClientModel.dll">
+      <publishTime>07/15/2025 05:54:46</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>03/14/2025 03:51:40</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>07/23/2024 05:22:36</publishTime>
+    </File>
+    <File Include="System.Memory.Data.dll">
+      <publishTime>09/17/2024 04:55:06</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>03/14/2025 03:51:32</publishTime>
+    </File>
+    <File Include="tr/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:13:10</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/10/2026 15:00:51</publishTime>
+    </File>
+    <File Include="zh-Hans/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:12:54</publishTime>
+    </File>
+    <File Include="zh-Hant/Microsoft.Data.SqlClient.resources.dll">
+      <publishTime>08/15/2025 03:13:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
